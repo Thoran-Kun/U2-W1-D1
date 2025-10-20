@@ -221,14 +221,20 @@ footer a {
 
   header div {
     display: inline-block;
+    width: 65%;
+    text-align: start;
   }
-
+  header p {
+    display: inline-block;
+  }
   header img {
     display: inline-block;
     text-align: start;
   }
   header nav {
     display: inline-block;
+    width: 34%;
+    text-align: right;
   }
 
   iframe,
